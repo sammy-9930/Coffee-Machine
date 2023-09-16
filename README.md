@@ -10,4 +10,10 @@
 coffee machine resources.
 9. Once all resources have been deducted, inform the user that the drink is ready.
 
+![image](https://github.com/sammy-9930/Coffee-Machine/assets/80445152/73de47fe-85e2-4973-826d-0c6dab140c17)
+
+![image](https://github.com/sammy-9930/Coffee-Machine/assets/80445152/d896ff8d-a83a-4e2b-91ce-732e80f9aefb)
+
+
+
 
