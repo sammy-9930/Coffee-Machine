@@ -27,3 +27,11 @@ class CoffeeMaker:
         for item in order.ingredients:
             self.resources[item] -= order.ingredients[item]
         print(f"Here is your {order.name} ☕️. Enjoy!")
+
+    def add_resource(self):
+        raw_material = input("What would you like to add?")
+        if raw_material in self.resources:
+            quantity = float(input("How much would you like to add?"))
+            self.resources[raw_material] += quantity
+        else:
+            print(f"Can't add resource {raw_material}.")
